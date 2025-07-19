@@ -13,6 +13,14 @@ This is a Next.js + Tailwind CSS project built for the Tentwenty Frontend Develo
 - Local state management with React Hooks
 
 ---
+## Time Spent
+
+Total Time: 8 hours
+
+- 3 hours – Layout and styling (login screen, dashboard, and task UI)
+- 2.5 hours – Component logic and API integration
+- 1.5 hours – State management and interaction logic
+- 1 hour – Testing, debugging, and documentation
 
 ## Getting Started
 
@@ -33,3 +41,4 @@ Test Login Credentials
 
 Email:    admin@tentwenty.com  
 Password: password123
+
