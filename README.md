@@ -16,9 +16,10 @@ This is a Next.js + Tailwind CSS project built for the Tentwenty Frontend Develo
 
 ## Getting Started
 
-1. Install dependencies
+
 
 ```bash
+1. Install dependencies
 npm install
 
 2.Run the development server
